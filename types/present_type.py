@@ -3,7 +3,7 @@ my_str = 'str'
 my_num = 1
 my_list = [2,3,4]
 my_tuple = (2,3)
-my_dict = {'name' 'Paul', 'What can i do' : 'I can wish you a happy birthday'}
+my_dict = {'name' : 'Paul', 'What can i do' : 'I can wish you a happy birthday'}
 my_set = set(2,3,2,5)
 
 print('Тип числа ' , type(my_num))
