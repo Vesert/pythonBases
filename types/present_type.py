@@ -4,9 +4,9 @@ my_num = 1
 my_list = [2,3,4]
 my_tuple = (2,3)
 my_dict = {'name' : 'Paul', 'What can i do' : 'I can wish you a happy birthday'}
-my_set = set(2,3,2,5)
+my_set = set([2,3,2,5])
 
-print('Тип числа ' , type(my_num))
+print('Тип числа ', my_num , type(my_num))
 print('Тип строки \'' + str + '\' ', type(str))
 print('Тип списка ', my_list, ' ',type(my_list))
 print('Тип кортежа ', my_tuple, ' ',type(my_tuple))
